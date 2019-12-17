@@ -5,4 +5,4 @@
   console.log(cognome);
   var colorePreferito = prompt('quale il tuo colore preferito?');
   console.log(colorePreferito);
-  document.getElementById('password').innerHTML= nome+ cognome+colorePreferito+'19';
+  document.getElementById('password').innerHTML= nome + cognome + colorePreferito + 19;
